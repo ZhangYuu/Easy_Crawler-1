@@ -1,3 +1,4 @@
 # Easy_Crawler
 
-Online data mining tool
+pip install bs4
+pip install lxml
